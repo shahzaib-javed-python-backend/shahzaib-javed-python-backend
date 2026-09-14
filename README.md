@@ -14,12 +14,10 @@
 ---
 
 ### 📊 GitHub Stats & Activity
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shahzaib-javed-python-backend&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-javed-python-backend&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahzaib-javed-python-backend&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-javed-python-backend&layout=compact&theme=radical&hide_border=true)
 
 ### 📫 Connect With Me
 * **LinkedIn:** [Shahzaib Javed](https://www.linkedin.com/in/shahzaib-javed-python-backend/)
