@@ -1,6 +1,6 @@
 ### Hi there, I'm Shahzaib Javed 👋
 
-**Python Backend Developer & Software Engineer** specializing in building robust, scalable server-side systems, REST APIs, and database architectures. 
+**Python Backend Developer & Software Engineer** specializing in building robust, scalable server-side systems, REST APIs, and database architectures.
 
 ---
 
@@ -13,11 +13,12 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Activity & Focus
+* **Primary Tech Stack:** Python, Django, FastAPI, PostgreSQL, MySQL
+* **Version Control:** Git & GitHub workflows, feature branching, and clean commit history
+* **Focus Areas:** Scalable RESTful API development, database architecture, and backend optimization
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahzaib-javed-python-backend&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-javed-python-backend&layout=compact&theme=radical&hide_border=true)
+---
 
 ### 📫 Connect With Me
 * **LinkedIn:** [Shahzaib Javed](https://www.linkedin.com/in/shahzaib-javed-python-backend/)
