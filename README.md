@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there, I'm Shahzaib Javed 👋
 
-<!--
-**shahzaib-javed-python-backend/shahzaib-javed-python-backend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Backend Developer & Software Engineer** specializing in building robust, scalable server-side systems, REST APIs, and database architectures. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack & Skills
+* **Languages:** Python, SQL, HTML/CSS, JavaScript
+* **Backend Frameworks:** Django, FastAPI
+* **Databases & ORM:** PostgreSQL, MySQL, SQLite
+* **Tools & Version Control:** Git, GitHub, VS Code, PowerShell, Postman
+* **Core Competencies:** RESTful API Design, Backend Security, Technical SEO, Performance Optimization
+
+---
+
+### 📊 GitHub Stats & Activity
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahzaib-javed-python-backend&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-javed-python-backend&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect With Me
+* **LinkedIn:** [Shahzaib Javed](https://www.linkedin.com/in/shahzaib-javed-python-backend/)
+* **Email:** networkengineerzobaib@gmail.com
