@@ -1,25 +1,59 @@
-### Hi there, I'm Shahzaib Javed 👋
+# Hi, I'm Shahzaib Javed 👋
 
-**Python Backend Developer & Software Engineer** specializing in building robust, scalable server-side systems, REST APIs, and database architectures.
+### Python Backend Developer | Django | FastAPI | REST APIs
+
+I build secure, scalable, and maintainable backend systems with Python. My focus is designing clean APIs, reliable database architectures, and production-ready server-side applications.
+
+## 🚀 About Me
+
+- 🔭 Currently focused on Python backend development and scalable API design
+- 🌱 Improving my skills in Django, FastAPI, database optimization, and backend security
+- 🧠 Interested in clean architecture, performance, and maintainable code
+- 💬 Feel free to reach out about Python, Django, FastAPI, REST APIs, or backend development
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Databases
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools & Practices
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+- RESTful API design
+- Authentication and backend security
+- Database design and query optimization
+- API testing and documentation
+- Performance optimization
+- Git and GitHub workflows
+
+## 📌 Featured Work
+
+Check out my repositories for backend projects, REST APIs, database-driven applications, and experiments with Django and FastAPI.
+
+## 📊 GitHub Stats
+
+![Shahzaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzaib-javed-python-backend&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-javed-python-backend&layout=compact&theme=tokyonight&hide_border=true)
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shahzaib-javed-python-backend/)
+- 📧 [Email](mailto:networkengineerzobaib@gmail.com)
 
 ---
 
-### 🚀 Tech Stack & Skills
-* **Languages:** Python, SQL, HTML/CSS, JavaScript
-* **Backend Frameworks:** Django, FastAPI
-* **Databases & ORM:** PostgreSQL, MySQL, SQLite
-* **Tools & Version Control:** Git, GitHub, VS Code, PowerShell, Postman
-* **Core Competencies:** RESTful API Design, Backend Security, Technical SEO, Performance Optimization
-
----
-
-### 📊 GitHub Activity & Focus
-* **Primary Tech Stack:** Python, Django, FastAPI, PostgreSQL, MySQL
-* **Version Control:** Git & GitHub workflows, feature branching, and clean commit history
-* **Focus Areas:** Scalable RESTful API development, database architecture, and backend optimization
-
----
-
-### 📫 Connect With Me
-* **LinkedIn:** [Shahzaib Javed](https://www.linkedin.com/in/shahzaib-javed-python-backend/)
-* **Email:** networkengineerzobaib@gmail.com
+⭐ If you find any of my projects useful, consider giving them a star!
