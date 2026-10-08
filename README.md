@@ -43,6 +43,17 @@ I build secure, scalable, and maintainable backend systems with Python. My focus
 
 Check out my repositories for backend projects, REST APIs, database-driven applications, and experiments with Django and FastAPI.
 
+## 📜 Certifications & Badges
+
+| Certification / Course | Issuer | Verification |
+| :--- | :--- | :--- |
+| **CCNA (Cisco Certified Network Associate)** | Cisco | [Verify Badge](https://www.credly.com/earner/earned/badge/8ec641d1-79ba-417e-91cd-0604c540853a) |
+| **Python Essentials 1** | Cisco | [Verify Badge](https://www.credly.com/earner/earned/badge/7ec69dcc-725a-4f59-bd6a-b86f09bc63c0) |
+| **Computer Hardware Basics** | Cisco | [Verify Badge](https://www.credly.com/earner/earned/badge/b1d8b985-ba67-414d-b971-ba2483191057) |
+| **Introduction to Cybersecurity** | Cisco | [Verify Badge](https://www.credly.com/earner/earned/badge/9983763c-0aff-40f7-9a09-e3c8e342bdf2) |
+| **English for IT 1** | Cisco | [Verify Badge](https://www.credly.com/earner/earned/badge/fe594dd3-9fc8-4ea9-bbee-a9e058e92692) |
+| **Career Preparation Workshop** | Cisco | [Verify Badge](https://www.credly.com/earner/earned/badge/d50fda7a-aa60-4e70-b467-358e186dd929) |
+
 ## 📊 GitHub Stats
 
 ![Shahzaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzaib-javed-python-backend&show_icons=true&theme=tokyonight&hide_border=true)
