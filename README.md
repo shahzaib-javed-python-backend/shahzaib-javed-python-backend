@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="./shahzaib-banner.jpg" width="100%" alt="Shahzaib Javed Banner" />
+  <img src="https://raw.githubusercontent.com/shahzaib-javed-python-backend/shahzaib-javed-python-backend/main/shahzaib-banner.jpg" width="100%" alt="Shahzaib Javed Banner" />
 </div>
 
 # Hi, I'm Shahzaib Javed 👋
