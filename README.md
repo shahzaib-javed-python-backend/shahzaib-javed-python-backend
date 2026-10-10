@@ -1,8 +1,17 @@
+<!-- Header Banner -->
+<div align="center">
+  <img src="./shahzaib-banner.jpg" width="100%" alt="Shahzaib Javed Banner" />
+</div>
+
 # Hi, I'm Shahzaib Javed 👋
 
-### Python Backend Developer | Django | FastAPI | REST APIs
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=480&lines=Python+Backend+Developer;Django+%26+FastAPI+Enthusiast;Building+Scalable+APIs;Database+Architecture+%26+Optimization" alt="Typing SVG" />
+</h3>
 
 I build secure, scalable, and maintainable backend systems with Python. My focus is designing clean APIs, reliable database architectures, and production-ready server-side applications.
+
+---
 
 ## 🚀 About Me
 
@@ -10,6 +19,8 @@ I build secure, scalable, and maintainable backend systems with Python. My focus
 - 🌱 Improving my skills in Django, FastAPI, database optimization, and backend security
 - 🧠 Interested in clean architecture, performance, and maintainable code
 - 💬 Feel free to reach out about Python, Django, FastAPI, REST APIs, or backend development
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -39,9 +50,13 @@ I build secure, scalable, and maintainable backend systems with Python. My focus
 - Performance optimization
 - Git and GitHub workflows
 
+---
+
 ## 📌 Featured Work
 
 Check out my repositories for backend projects, REST APIs, database-driven applications, and experiments with Django and FastAPI.
+
+---
 
 ## 📜 Certifications & Badges
 
@@ -54,11 +69,22 @@ Check out my repositories for backend projects, REST APIs, database-driven appli
 | **English for IT 1** | Cisco | [Verify Badge](https://www.credly.com/earner/earned/badge/fe594dd3-9fc8-4ea9-bbee-a9e058e92692) |
 | **Career Preparation Workshop** | Cisco | [Verify Badge](https://www.credly.com/earner/earned/badge/d50fda7a-aa60-4e70-b467-358e186dd929) |
 
+---
+
 ## 📊 GitHub Stats
 
-![Shahzaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzaib-javed-python-backend&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahzaib-javed-python-backend&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-javed-python-backend&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-javed-python-backend&layout=compact&theme=tokyonight&hide_border=true)
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaib-javed-python-backend&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
 
 ## 🤝 Let's Connect
 
@@ -67,4 +93,6 @@ Check out my repositories for backend projects, REST APIs, database-driven appli
 
 ---
 
-⭐ If you find any of my projects useful, consider giving them a star!
+<div align="center">
+  ⭐ If you find any of my projects useful, consider giving them a star!
+</div>
